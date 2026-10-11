@@ -1,0 +1,158 @@
+# 1.2 Data Analytics in Action 📊
+
+## 📌 From Questions to Answers
+
+Learning definitions is one thing, but how does data analytics actually work when someone has a real problem to solve?
+
+Imagine a business owner asking, *"Why have our sales dropped this month?"* Simply collecting sales figures won't automatically answer that question. We need to understand the problem, find relevant data, investigate it, prepare it, analyze it, and communicate what we discover.
+
+That is where the **Data Analytics Lifecycle** comes in. It provides a structured way to approach an analytics project, from the first question to the final results.
+
+## 🔄 1.2.1 The Data Analysis Processes
+
+An analytics project isn't just about opening a spreadsheet and looking for interesting numbers. There's a process behind it.
+
+The Data Analytics Lifecycle described in this course has six main steps:
+
+1. Ask the question
+2. Get the data
+3. Investigate the data
+4. Prepare the data
+5. Analyze the data
+6. Present the results
+
+Let's walk through them using one example: a business wants to understand why its sales have decreased.
+
+### 1. Ask the Question ❓
+
+Before touching any data, we need to understand what we're trying to find out.
+
+For our example, the business might ask:
+
+**"Why did our sales decrease this month, and what can we do about it?"**
+
+A clear question gives the project direction. Without one, it's easy to collect lots of data without knowing what we're looking for.
+
+At this stage, it's also important to understand the business problem, the goals of the project, and what the people involved need to know.
+
+### 2. Get the Data 📥
+
+Now we need information that can help answer the question.
+
+For the sales example, useful sources might include:
+
+- Previous sales records
+- Product information
+- Customer transaction records
+- Marketing campaign results
+- Inventory records
+
+The important thing is to collect data that's relevant to the question. More data isn't automatically better if it doesn't help us investigate the problem.
+
+### 3. Investigate the Data 🔎
+
+We've collected the data. But can we actually use it?
+
+Before analyzing it, we need to look at what we've gathered and understand its condition.
+
+We might ask:
+
+- Are important values missing?
+- Are there duplicate records?
+- Does the data cover the period we're interested in?
+- Are the columns and values understandable?
+- Is the information relevant to our original question?
+
+For example, if sales records from an entire week are missing, our conclusions about that month's performance could be misleading.
+
+This step helps us understand what the data contains, what it can tell us, and where its limitations might be.
+
+### 4. Prepare the Data 🧹
+
+Data collected from real sources isn't always neat and ready to use. It may contain inconsistent formats, missing values, duplicates, or other problems.
+
+Preparing the data means getting it into a suitable condition for analysis.
+
+For example, we might need to:
+
+- Remove duplicate records where appropriate.
+- Correct inconsistent date formats.
+- Handle missing values.
+- Standardize product names.
+- Organize the data into a useful structure.
+
+Think of this as preparing ingredients before cooking. If the ingredients aren't ready, the rest of the process becomes harder.
+
+**Important:** Investigating and preparing data are related, but they aren't the same. Investigating helps us understand the data and identify issues; preparing involves making the necessary changes.
+
+### 5. Analyze the Data 📈
+
+Now we can start looking for answers.
+
+We might compare this month's sales with previous months, examine product performance, or investigate whether sales changes are associated with particular marketing campaigns.
+
+The goal is to identify useful patterns, relationships, or insights that help answer the original question.
+
+For example, our analysis might reveal that sales declined mainly in one product category.
+
+That finding gives the business something specific to investigate instead of relying on guesswork.
+
+However, we should be careful not to assume that one pattern automatically proves its cause. We need sufficient evidence before drawing conclusions.
+
+### 6. Present the Results 🗣️
+
+Finding an insight is only part of the job. We also need to communicate it clearly so that other people can understand it and decide what to do next.
+
+Results might be presented through:
+
+- Charts and graphs
+- Reports
+- Tables
+- Dashboards
+- Presentations
+
+For our example, a chart showing sales trends across several months might make the decline much easier to understand.
+
+A good presentation explains what was discovered, why it matters, and what the results suggest. The aim is to make the findings useful to the people who need them.
+
+## 🔁 Is the Process Always a Straight Line?
+
+Here's something worth remembering: the lifecycle doesn't necessarily end when we present the results.
+
+While analyzing the data, we might discover that we need another dataset. While preparing it, we might notice a problem that requires us to investigate again. After presenting the findings, the business might ask a new question.
+
+That means we may need to return to an earlier step and repeat part of the process.
+
+**The Data Analytics Lifecycle is iterative.** In simple words, we can go back, improve our work, and repeat steps when necessary.
+
+This is useful because real-world problems aren't always straightforward, and the first attempt doesn't always give us everything we need.
+
+## 💡 What I'm Taking Away From This
+
+The main thing I'm learning is that data analytics is more than performing calculations or creating charts. It starts with understanding a question and ends with communicating something useful.
+
+Each step has a purpose:
+
+- Asking gives the project direction.
+- Getting provides the information.
+- Investigating helps us understand the data.
+- Preparing makes the data suitable for analysis.
+- Analyzing helps us find insights.
+- Presenting makes those insights understandable and useful.
+
+And because the process is iterative, we don't have to assume everything will go perfectly the first time.
+
+## 🧠 Quick Self-Test
+
+I'll try answering these without looking at the notes first.
+
+1. What are the six steps of the Data Analytics Lifecycle, in order?
+2. Why should we define the question before collecting data?
+3. What's the difference between investigating data and preparing it?
+4. Give two examples of problems that might need to be addressed during data preparation.
+5. Why is presenting the results an important part of the process?
+6. What does it mean when we say the Data Analytics Lifecycle is iterative?
+
+## 📚 Reference
+
+Cisco Networking Academy — *Data Analytics Essentials*, Module 1: Data Analytics Projects. Personal study notes based on the course material.
